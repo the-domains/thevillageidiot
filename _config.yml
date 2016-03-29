@@ -1,0 +1,28 @@
+name: thevillageidiot
+favicon: null
+layout_spectrum: 0.6426491206511855
+typography_spectrum: 0.8801530001219362
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.14086978766135871
+  lightness: 0.11274778400547802
+  saturation: 0.8706422050017864
+  rhythmicContrast: 0.59784891968593
+purpose: []
