@@ -1,7 +1,7 @@
-name: thevillageidiot
+name: the village idiot
 favicon: null
 layout_spectrum: 0.48303
-typography_spectrum: 0.24842
+typography_spectrum: 0.27674
 title: The Village Idiot
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#aaaaaa'
     - '#80ffff'
     - '#8c5662'
-  brandStrength: 0.14086978766135871
-  lightness: 0.11274778400547802
+  brandStrength: 0.8125
+  lightness: 0.3125
   saturation: 0.8706422050017864
-  rhythmicContrast: 0.59784891968593
+  rhythmicContrast: 0.75
 purpose: []
